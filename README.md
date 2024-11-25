@@ -4,6 +4,7 @@
   ✨⭐ Em 2003 nascia uma aspirante à tecnologia. ✨⭐
   
   Estudo programação autonomamente desde 2022 e a partir de então, decidi aprofundar meus conhecimentos na CESAR School, onde curso Ciência da Comṕutação.<br>
+  
   Comecei programando em Java <3 e agora estou expandindo meus conhecimentos também para Python e Javascript, com a ajuda de projetos que estão disponíveis aqui no Github.
 </p>
 
