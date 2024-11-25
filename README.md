@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  ✨⭐ Em 2003 nascia uma aspirante à tecnologia. ✨⭐
+  ✨⭐ Em 2003 nascia uma entusiasta da tecnologia. ✨⭐
   
   Estudo programação autonomamente desde 2022 e a partir de então, decidi aprofundar meus conhecimentos na CESAR School, onde curso Ciência da Comṕutação.<br>
   
